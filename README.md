@@ -1,7 +1,7 @@
 # PHPCourse
 [PHP learning path](https://platzi.com/web-php/)
 
-[x] https://platzi.com/cursos/php/
+1. - [x] https://platzi.com/cursos/php/
 
 2. https://platzi.com/cursos/php-arreglos-funciones/
 
